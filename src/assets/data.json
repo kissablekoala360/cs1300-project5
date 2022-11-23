@@ -23,7 +23,7 @@
     {
         "code": "SYD",
         "title": "Sydney",
-        "price": "980",
+        "price": "1230",
         "tags": ["City", "International"],
         "image": "/images/destinations/syd.png"
     },
@@ -37,49 +37,49 @@
     {
         "code": "BKK",
         "title": "Bangkok",
-        "price": "980",
+        "price": "750",
         "tags": ["City", "International"],
         "image": "/images/destinations/bkk.png"
     },
     {
         "code": "HKG",
         "title": "Hong Kong",
-        "price": "980",
+        "price": "643",
         "tags": ["City", "International"],
         "image": "/images/destinations/hkg.png"
     },
     {
         "code": "SIN",
         "title": "Singapore",
-        "price": "980",
+        "price": "934",
         "tags": ["City", "International"],
         "image": "/images/destinations/sin.png"
     },
     {
         "code": "TPE",
         "title": "Taipei",
-        "price": "980",
+        "price": "1340",
         "tags": ["City", "International"],
         "image": "/images/destinations/tpe.png"
     },
     {
         "code": "LIH",
         "title": "Lihue",
-        "price": "980",
+        "price": "650",
         "tags": ["Tropical", "Domestic"],
         "image": "/images/destinations/lih.png"
     },
     {
         "code": "DPS",
         "title": "Bali",
-        "price": "980",
+        "price": "1350",
         "tags": ["Tropical", "International"],
         "image": "/images/destinations/dps.png"
     },
     {
         "code": "HTI",
         "title": "Hamilton Island",
-        "price": "980",
+        "price": "679",
         "tags": ["Tropical", "International"],
         "image": "/images/destinations/hti.png"
     }

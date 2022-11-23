@@ -23,7 +23,7 @@ function LocationTile(props) {
                     }
                 </CardContent>
             </Box>
-            <div className='flight-card-media' style={{backgroundImage: `url(${item.image})`}}>
+            <div className='flight-card-media' style={{backgroundImage: `url(${process.env.PUBLIC_URL + item.image})`}}>
                 <div className='flight-card-chips'>
                     <div className='flight-card-price'>
                     <Chip icon={<AttachMoneyIcon />} color='secondary' label={item.price} />
