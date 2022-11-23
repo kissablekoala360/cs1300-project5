@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/csci1300-project5/static/css/main.4706ae74.css",
-    "main.js": "/csci1300-project5/static/js/main.72ce035f.js",
+    "main.js": "/csci1300-project5/static/js/main.02bc6ede.js",
     "static/media/bg.jpeg": "/csci1300-project5/static/media/bg.b40d98080af06e1e5c91.jpeg",
     "index.html": "/csci1300-project5/index.html",
     "main.4706ae74.css.map": "/csci1300-project5/static/css/main.4706ae74.css.map",
-    "main.72ce035f.js.map": "/csci1300-project5/static/js/main.72ce035f.js.map"
+    "main.02bc6ede.js.map": "/csci1300-project5/static/js/main.02bc6ede.js.map"
   },
   "entrypoints": [
     "static/css/main.4706ae74.css",
-    "static/js/main.72ce035f.js"
+    "static/js/main.02bc6ede.js"
   ]
 }
